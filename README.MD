@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Pranithjainbp84@gmail.com**
 
-- 📄 Know about my experiences **https://fueler.io/pranithjain84""
+- 📄 Know about my experiences https://fueler.io/pranithjain84
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
