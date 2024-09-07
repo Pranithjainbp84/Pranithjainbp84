@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Cybersecurity/ Soc operations**
 
-- 💬 Ask me about **Cybersecurity, Saas Application, Cold Emailing and   troubleshooting**
+- 💬 Ask me about **Cybersecurity, Saas Application, Cold Emailing and troubleshooting**
 
 - 📫 How to reach me **Pranithjainbp84@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1xYAzSzBTuJ-70CtE96Cn_Wcqx1ozuWdr/edit?usp=sharing&ouid=110416033783500475944&rtpof=true&sd=true](https://docs.google.com/document/d/1xYAzSzBTuJ-70CtE96Cn_Wcqx1ozuWdr/edit?usp=sharing&ouid=110416033783500475944&rtpof=true&sd=true)
+- 📄 Know about my experiences **https://fueler.io/pranithjain84""
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
