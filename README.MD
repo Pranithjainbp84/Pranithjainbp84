@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranith Jain B.P</h1>
-<h3 align="center">A passionate Junior support Engineer and Associate Software Developer from India</h3>
+<h3 align="center">A dedicated IT Support Specialist and Cyber Security Analyst based in Bengaluru. With a solid track record in Saas Application, Threat intelligence, Phishing analysis and Soc Operations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranithjainbp84&label=Profile%20views&color=0e75b6&style=flat" alt="pranithjainbp84" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning **Cybersecurity/ Soc operations**
 
-- 💬 Ask me about **Java Python and troubleshooting**
+- 💬 Ask me about **Cybersecurity, Saas Application, Cold Emailing and   troubleshooting**
 
 - 📫 How to reach me **Pranithjainbp84@gmail.com**
 
