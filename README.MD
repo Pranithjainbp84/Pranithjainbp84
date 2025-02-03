@@ -1,4 +1,4 @@
-<h2 align="left">Hey there! 👋 I'm Pranith Jain, a SOC Analyst and Email Deliverability Specialist based in India.</h2>
+<h2 align="left">Hey there! 👋 I'm Pranith Jain, a SOC Analyst and Email Deliverability Expert based in India.</h2>
 
 ###
 
