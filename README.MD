@@ -54,7 +54,7 @@ Welcome! I’m a **SOC Analyst** with a passion for cybersecurity, automation, a
 
 
 
-## 📬 Connect with Me
+📬 Connect with Me
 
 <div align="left">
   <a href="mailto:pranithjainbp84@gmail.com" target="_blank">
@@ -70,5 +70,5 @@ Welcome! I’m a **SOC Analyst** with a passion for cybersecurity, automation, a
 
 
 
-## 🚀 Key Contributions
+🚀 Key Contributions
 Explore the projects, tools, and research I've worked on in my repositories. Feel free to contribute or raise issues!
