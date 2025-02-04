@@ -1,23 +1,45 @@
-<h2 align="left">Hey there! 👋 I'm Pranith Jain, a SOC Analyst and Email Deliverability Expert based in India.</h2>
+# 🔐 SOC Analyst | Cybersecurity Enthusiast | Email Deliverability
 
-###
+## 👨‍💻 About Me  
+Welcome! I’m a **SOC Analyst** with a passion for cybersecurity, automation, and threat hunting. This GitHub serves as a collection of my tools, scripts, and research.  
+
+💡 **Interests**:  
+- Threat Detection & Incident Response  
+- SIEM & Log Analysis  
+- SOC Automation & Threat Intelligence  
+
+🛠 **Tools & Technologies**:  
+- **SIEM**: Microsoft Sentinel, Sumo Logic  
+- **Endpoint Security**: Cybereason, Microsoft Defender  
+- **Threat Intelligence**: VirusTotal, Shodan, URL Scan  
+- **Network Detection & Response**: ExtraHop NDR  
+- **XDR**: Sophos XDR, Cyberreason EDR  
+- **Threat Intelligence**: IBM X-Force Intelligence  
+- **Security Tools**: Intruder, Wireshark  
+- **Scripting**: Python, Bash, PowerShell  
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pranithjainbp84&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranithjainbp84&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+---
 
+## 📈 Profile Views
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranithjainbp84&label=Profile%20views&color=0e75b6&style=flat" alt="pranithjainbp84" /> </p>
 
-###
+---
 
-###
-
+## 👾 Fun Animation
 <img align="right" height="150" src="https://media.tenor.com/0m1GsuD-53wAAAAj/mlbb-jjk-jjk-mlbb.gif"  />
 
-###
+---
+
+## 💻 Technologies I Work With
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -35,7 +57,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
-###
+---
+
+## 📬 Connect with Me
 
 <div align="left">
   <a href="mailto:pranithjainbp84@gmail.com" target="_blank">
@@ -49,4 +73,7 @@
   </a>
 </div>
 
+---
 
+## 🚀 Key Contributions
+Explore the projects, tools, and research I've worked on in my repositories. Feel free to contribute or raise issues!
