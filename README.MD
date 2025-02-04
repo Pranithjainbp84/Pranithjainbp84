@@ -20,7 +20,7 @@ Welcome! I’m a **SOC Analyst** with a passion for cybersecurity, automation, a
 
 
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pranithjainbp84&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -28,13 +28,13 @@ Welcome! I’m a **SOC Analyst** with a passion for cybersecurity, automation, a
 </div>
 
 
-## 📈 Profile Views
+ 📈 Profile Views
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranithjainbp84&label=Profile%20views&color=0e75b6&style=flat" alt="pranithjainbp84" /> </p>
 
 <img align="right" height="150" src="https://media.tenor.com/0m1GsuD-53wAAAAj/mlbb-jjk-jjk-mlbb.gif"  />
 
 
-## 💻 Technologies I Work With
+💻 Technologies I Work With
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
