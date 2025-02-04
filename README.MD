@@ -31,8 +31,6 @@ Welcome! I’m a **SOC Analyst** with a passion for cybersecurity, automation, a
 ## 📈 Profile Views
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranithjainbp84&label=Profile%20views&color=0e75b6&style=flat" alt="pranithjainbp84" /> </p>
 
-
-## 👾 Fun Animation
 <img align="right" height="150" src="https://media.tenor.com/0m1GsuD-53wAAAAj/mlbb-jjk-jjk-mlbb.gif"  />
 
 
