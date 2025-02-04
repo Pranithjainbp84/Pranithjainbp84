@@ -1,7 +1,7 @@
 # 🔐 SOC Analyst | Cybersecurity Enthusiast | Email Deliverability
 
 ## 👨‍💻 About Me  
-Welcome! I’m a **SOC Analyst** with a passion for cybersecurity, automation, and threat hunting. This GitHub serves as a collection of my tools, scripts, and research.  
+Welcome! I’m a **SOC Analyst** with a passion for cybersecurity, automation, and threat hunting.  
 
 💡 **Interests**:  
 - Threat Detection & Incident Response  
