@@ -18,7 +18,7 @@ Welcome! I’m a **SOC Analyst** with a passion for cybersecurity, automation, a
 - **Security Tools**: Intruder, Wireshark  
 - **Scripting**: Python, Bash, PowerShell  
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -27,17 +27,14 @@ Welcome! I’m a **SOC Analyst** with a passion for cybersecurity, automation, a
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranithjainbp84&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
----
 
 ## 📈 Profile Views
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranithjainbp84&label=Profile%20views&color=0e75b6&style=flat" alt="pranithjainbp84" /> </p>
 
----
 
 ## 👾 Fun Animation
 <img align="right" height="150" src="https://media.tenor.com/0m1GsuD-53wAAAAj/mlbb-jjk-jjk-mlbb.gif"  />
 
----
 
 ## 💻 Technologies I Work With
 
@@ -57,7 +54,7 @@ Welcome! I’m a **SOC Analyst** with a passion for cybersecurity, automation, a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
----
+
 
 ## 📬 Connect with Me
 
@@ -73,7 +70,7 @@ Welcome! I’m a **SOC Analyst** with a passion for cybersecurity, automation, a
   </a>
 </div>
 
----
+
 
 ## 🚀 Key Contributions
 Explore the projects, tools, and research I've worked on in my repositories. Feel free to contribute or raise issues!
