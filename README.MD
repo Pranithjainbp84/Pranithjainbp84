@@ -17,7 +17,7 @@ Welcome! I’m a **Security Professional** with a passion for cybersecurity, Clo
 - **XDR**: Sophos XDR, Cyberreason EDR   
 - **Security Tools**: Intruder, Wireshark  
 - **Scripting**: Python, Bash, PowerShell
--**AI AUtomation**: Prompt Enginerring, Ai Workflows, n8n automation. No code/Low Code, Vibe Coding.
+-**AI Automation**: Prompt Enginerring, Ai Workflows, n8n automation. No code/Low Code, Vibe Coding.
 
 
 
