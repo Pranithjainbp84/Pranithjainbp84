@@ -1,7 +1,7 @@
-# 🔐 SOC Analyst | Cybersecurity Enthusiast | Email Deliverability
+# 🔐 Cybersecurity Enthusiast | Email Deliverability | Cloud Security
 
 ## 👨‍💻 About Me  
-Welcome! I’m a **SOC Analyst** with a passion for cybersecurity, automation, and threat hunting.  
+Welcome! I’m a **Security Professional** with a passion for cybersecurity, Cloud, automation, and threat hunting.  
 
 💡 **Interests**:  
 - Threat Detection & Incident Response  
@@ -9,14 +9,15 @@ Welcome! I’m a **SOC Analyst** with a passion for cybersecurity, automation, a
 - SOC Automation & Threat Intelligence  
 
 🛠 **Tools & Technologies**:  
-- **SIEM**: Microsoft Sentinel, Sumo Logic  
+- **SIEM**: Microsoft Sentinel, Sumo Logic, ELK.
+-**Cloud**: Microsoft Azure and Google cloud platform
 - **Endpoint Security**: Cybereason, Microsoft Defender  
-- **Threat Intelligence**: VirusTotal, Shodan, URL Scan  
+- **Threat Intelligence**: VirusTotal, Shodan, URL Scan, IBM X-Force Intelligence  
 - **Network Detection & Response**: ExtraHop NDR  
-- **XDR**: Sophos XDR, Cyberreason EDR  
-- **Threat Intelligence**: IBM X-Force Intelligence  
+- **XDR**: Sophos XDR, Cyberreason EDR   
 - **Security Tools**: Intruder, Wireshark  
-- **Scripting**: Python, Bash, PowerShell  
+- **Scripting**: Python, Bash, PowerShell
+-**AI AUtomation**: Prompt Enginerring, Ai Workflows, n8n automation. No code/Low Code, Vibe Coding.
 
 
 
