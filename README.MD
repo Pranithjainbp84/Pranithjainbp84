@@ -10,14 +10,14 @@ Welcome! I’m a **Security Professional** with a passion for cybersecurity, Clo
 
 🛠 **Tools & Technologies**:  
 - **SIEM**: Microsoft Sentinel, Sumo Logic, ELK.
--**Cloud**: Microsoft Azure and Google cloud platform
+- **Cloud**: Microsoft Azure and Google cloud platform
 - **Endpoint Security**: Cybereason, Microsoft Defender  
 - **Threat Intelligence**: VirusTotal, Shodan, URL Scan, IBM X-Force Intelligence  
 - **Network Detection & Response**: ExtraHop NDR  
 - **XDR**: Sophos XDR, Cyberreason EDR   
 - **Security Tools**: Intruder, Wireshark  
 - **Scripting**: Python, Bash, PowerShell
--**AI Automation**: Prompt Enginerring, Ai Workflows, n8n automation. No code/Low Code, Vibe Coding.
+- **AI Automation**: Prompt Enginerring, Ai Workflows, n8n automation. No code/Low Code, Vibe Coding.
 
 
 
