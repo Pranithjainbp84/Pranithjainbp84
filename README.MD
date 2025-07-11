@@ -24,13 +24,13 @@ Welcome! I’m a **Security Professional** with a passion for cybersecurity, Clo
 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranithjainbp84&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranithjainbp84&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranith-Jain&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pranith-Jain&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 
  📈 Profile Views
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranithjainbp84&label=Profile%20views&color=0e75b6&style=flat" alt="pranithjainbp84" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranithjainbp84&label=Profile%20views&color=0e75b6&style=flat" alt="Pranith-Jain" /> </p>
 
 <img align="right" height="150" src="https://media.tenor.com/0m1GsuD-53wAAAAj/mlbb-jjk-jjk-mlbb.gif"  />
 
